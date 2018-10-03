@@ -1,0 +1,3 @@
+[submodule "latex/bib_repo"]
+	path = latex/bib_repo
+	url = git@github.rcac.purdue.edu:JeremiahMBlockiGroup/bib_repo.git

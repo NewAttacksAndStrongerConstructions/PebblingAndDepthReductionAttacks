@@ -1,0 +1,11 @@
+Pebb_Exp_2018-master/
+*.config
+*.exe
+*.aux
+*.bbl
+*.pdf
+*.out
+*.synctex.gz
+*.pdb
+*.exe.config
+*.exe.manifest
